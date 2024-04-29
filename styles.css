@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family:"Merriweather", serif;
+}
+
+h1{
+    font-family:"Sacramento", cursive ;
+    color: crimson;
+    font-size: 40px;
+}
+h2{
+    color: rebeccapurple;
+    font-size: 2.5rem;
+    font-family: "Montserrat";
+}
+
+.top-container{
+    background-color: white;
+    position: relative;
+
+}
+.cloud{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    width: 200px;
+    length :60px;
+
+}
+
+.cloud2{
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+    width: 100px;
+    length: 60px;
+
+    
+}
+.top-container span{
+    text-decoration: underline;
+}
+
+.midcontainer{
+    margin: 100px;
+    text-align: center;
+}
+
+/* .skills{
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+.skills {
+    text-align: center;
+}
